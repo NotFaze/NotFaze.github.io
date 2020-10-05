@@ -13,4 +13,55 @@
         <tag>测试</tag>
       </tags>
   </entry>
+  <entry>
+    <title>second</title>
+    <url>/2020/10/05/second/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>forth</title>
+    <url>/2020/10/05/forth/</url>
+    <content><![CDATA[<p>Canst thou, O partial sleep, give thy repose<br>To the wet sea-boy in an hour so rude,<br>And in the calmest and most stillest night,<br>With all appliances and means to boot,<br>Deny it to a king? Then happy low, lie down!<br>Uneasy lies the head that wears a crown.<br>Uneasy lies the head that wears a crown.</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>third</title>
+    <url>/2020/10/05/third/</url>
+    <content><![CDATA[<p>Heavy is the head who wears the crown.</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇文章</title>
+    <url>/2020/10/05/My-First-Blog/</url>
+    <content><![CDATA[<p>女人心，秋日空。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>感悟</tag>
+        <tag>名言</tag>
+      </tags>
+  </entry>
 </search>
