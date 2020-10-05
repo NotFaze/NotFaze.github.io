@@ -40,18 +40,6 @@
       </tags>
   </entry>
   <entry>
-    <title>second</title>
-    <url>/2020/10/05/second/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>third</title>
     <url>/2020/10/05/third/</url>
     <content><![CDATA[<p>Heavy is the head who wears the crown.</p>
@@ -62,6 +50,18 @@
       <tags>
         <tag>Linux</tag>
         <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>second</title>
+    <url>/2020/10/05/second/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
