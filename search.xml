@@ -92,19 +92,6 @@
       </tags>
   </entry>
   <entry>
-    <title>new</title>
-    <url>/2020/10/05/new/</url>
-    <content><![CDATA[<p>我们终会相遇，在那遥远的苍穹。</p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>励志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>second</title>
     <url>/2020/10/05/second/</url>
     <content><![CDATA[]]></content>
@@ -117,9 +104,17 @@
       </tags>
   </entry>
   <entry>
-    <title>test-forth</title>
-    <url>/2020/10/06/test-forth/</url>
-    <content><![CDATA[]]></content>
+    <title>new</title>
+    <url>/2020/10/05/new/</url>
+    <content><![CDATA[<p>我们终会相遇，在那遥远的苍穹。</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>励志</tag>
+      </tags>
   </entry>
   <entry>
     <title>test-second</title>
