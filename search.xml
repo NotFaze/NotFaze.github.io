@@ -27,32 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Test</title>
-    <url>/2020/10/04/Test/</url>
-    <content><![CDATA[<p>人生很贵，请别浪费。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>励志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Test-ving</title>
-    <url>/2020/10/04/Testing/</url>
-    <content><![CDATA[<p>此刻打盹，你将做梦；<br>此刻学习，你将圆梦。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>励志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>fifth</title>
     <url>/2020/10/05/fifth/</url>
     <content><![CDATA[<p>当日光散尽，漫天星辰都会为你加冕。<br>有热气腾腾的勇气，路自会通向远方。<br>执着的人啊，梦想都住在血液里往复不息。</p>
@@ -92,18 +66,6 @@
       </tags>
   </entry>
   <entry>
-    <title>second</title>
-    <url>/2020/10/05/second/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>new</title>
     <url>/2020/10/05/new/</url>
     <content><![CDATA[<p>我们终会相遇，在那遥远的苍穹。</p>
@@ -117,16 +79,28 @@
       </tags>
   </entry>
   <entry>
-    <title>test-second</title>
-    <url>/2020/10/06/test-second/</url>
-    <content><![CDATA[<p>山有木兮木有枝，心悦君兮君不知。</p>
-]]></content>
+    <title>second</title>
+    <url>/2020/10/05/second/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>随笔</category>
+        <category>工具</category>
       </categories>
       <tags>
+        <tag>学习</tag>
         <tag>测试</tag>
-        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>third</title>
+    <url>/2020/10/05/third/</url>
+    <content><![CDATA[<p>Heavy is the head who wears the crown.</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>网站搭建</tag>
       </tags>
   </entry>
   <entry>
@@ -142,16 +116,16 @@
       </tags>
   </entry>
   <entry>
-    <title>third</title>
-    <url>/2020/10/05/third/</url>
-    <content><![CDATA[<p>Heavy is the head who wears the crown.</p>
+    <title>test-second</title>
+    <url>/2020/10/06/test-second/</url>
+    <content><![CDATA[<p>山有木兮木有枝，心悦君兮君不知。</p>
 ]]></content>
       <categories>
-        <category>工具</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
-        <tag>网站搭建</tag>
+        <tag>测试</tag>
+        <tag>心情</tag>
       </tags>
   </entry>
   <entry>
